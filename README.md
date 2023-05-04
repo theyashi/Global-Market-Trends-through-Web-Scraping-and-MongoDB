@@ -1,0 +1,1 @@
+# Global-Market-Trends-through-Web-Scraping-and-MongoDB
